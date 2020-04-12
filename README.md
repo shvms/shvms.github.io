@@ -1,2 +1,3 @@
 # Personal Blog
-## Added Spotify filter plugin
+## Created Spotify filter plugin
+ This filter not supported yet, so pushing locally static files, built locally.
